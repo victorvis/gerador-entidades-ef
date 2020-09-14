@@ -3,3 +3,8 @@
 ################################################################################
 
 /EFGerador/EF/bin/Debug
+/EFGerador/EF/obj/Debug
+/EFGerador/packages
+/EFGerador/EF/Mapeamentos
+/EFGerador/EF/Entidades
+/EFGerador/EF/Contexto
